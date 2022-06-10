@@ -1,0 +1,239 @@
+/* Rectangle 2 */
+
+
+position: absolute;
+width: 1728px;
+height: 1117px;
+left: 0px;
+top: 0px;
+
+background: #D9D9D9;
+
+
+/* image 2 */
+
+
+position: absolute;
+width: 1728px;
+height: 84px;
+left: 0px;
+top: -8px;
+
+background: url(image.png);
+
+
+/* Rectangle 16 */
+
+
+position: absolute;
+width: 1660px;
+height: 68px;
+left: 59px;
+top: 8px;
+
+background: #000000;
+
+
+/* The-free-exoticparadise.us */
+
+
+position: absolute;
+width: 1026px;
+height: 80px;
+left: 59px;
+top: 12px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+
+
+
+/* image 5 */
+
+
+position: absolute;
+width: 1728px;
+height: 1041px;
+left: 0px;
+top: 76px;
+
+background: url(image.png);
+
+
+/* Email */
+
+
+position: absolute;
+width: 135px;
+height: 64px;
+left: 59px;
+top: 206px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Password */
+
+
+position: absolute;
+width: 239px;
+height: 62px;
+left: 59px;
+top: 366px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Rectangle 19 */
+
+
+position: absolute;
+width: 756px;
+height: 56px;
+left: 59px;
+top: 284px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 20 */
+
+
+position: absolute;
+width: 756px;
+height: 56px;
+left: 59px;
+top: 454px;
+
+background: #FFFFFF;
+
+
+/* Rectangle 21 */
+
+
+position: absolute;
+width: 194px;
+height: 66px;
+left: 60px;
+top: 542px;
+
+background: #2ECFE4;
+
+
+/* SIGN IN */
+
+
+position: absolute;
+width: 224px;
+height: 86px;
+left: 67px;
+top: 551px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Pooja.Tester@exoticparadise.tech */
+
+
+position: absolute;
+width: 755px;
+height: 68px;
+left: 60px;
+top: 284px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 40px;
+line-height: 48px;
+
+color: #000000;
+
+
+
+/* .................. */
+
+
+position: absolute;
+width: 632px;
+height: 160px;
+left: 59px;
+top: 397px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 96px;
+line-height: 116px;
+
+color: #000000;
+
+
+
+/* Welcome to ExoticParadise!! */
+
+
+position: absolute;
+width: 1264px;
+height: 156px;
+left: 257px;
+top: 76px;
+
+font-family: 'Meie Script';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 122px;
+
+color: #000000;
+
+
+
+/* image 9 */
+
+
+position: absolute;
+width: 772px;
+height: 137px;
+left: 889px;
+top: 244px;
+
+background: url(image.png);
+
+
+/* image 10 */
+
+
+position: absolute;
+width: 772px;
+height: 150px;
+left: 889px;
+top: 415px;
+
+background: url(image.png)
