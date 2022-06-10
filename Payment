@@ -1,0 +1,140 @@
+/* image 5 */
+
+
+position: absolute;
+width: 1728px;
+height: 84px;
+left: 0px;
+top: 0px;
+
+background: url(image.png);
+
+
+/* Rectangle 15 */
+
+
+position: absolute;
+width: 1660px;
+height: 68px;
+left: 59px;
+top: 16px;
+
+background: #000000;
+
+
+/* The-free-exoticparadise.us */
+
+
+position: absolute;
+width: 1026px;
+height: 80px;
+left: 59px;
+top: 20px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+
+
+
+/* image 17 */
+
+
+position: absolute;
+width: 1728px;
+height: 1031px;
+left: 0px;
+top: 86px;
+
+background: url(image.png);
+
+
+/* CLOUD FOREST TOUR- $8.15 Tax- $1.00 SUBTOTAL- $9.15 */
+
+
+position: absolute;
+width: 1416px;
+height: 360px;
+left: 220px;
+top: 100px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 96px;
+line-height: 116px;
+
+color: #FFFFFF;
+
+
+
+/* CREDIT CARD xxxx xxxx xxxx 3948 10/25 CVV: xxx */
+
+
+position: absolute;
+width: 1048px;
+height: 328px;
+left: 365px;
+top: 509px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 900;
+font-size: 96px;
+line-height: 116px;
+
+color: #F80000;
+
+
+
+/* Autofilled by ExoticParadise */
+
+
+position: absolute;
+width: 1416px;
+height: 360px;
+left: 256px;
+top: 886px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 800;
+font-size: 96px;
+line-height: 116px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 36 */
+
+
+position: absolute;
+width: 264px;
+height: 124px;
+left: 1320px;
+top: 478px;
+
+background: #FF5757;
+
+
+/* DONE */
+
+
+position: absolute;
+width: 255px;
+height: 115px;
+left: 1329px;
+top: 487px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 109px;
+
+color: #000000;
