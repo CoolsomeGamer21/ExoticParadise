@@ -1,0 +1,306 @@
+/* Rectangle 3 */
+
+
+position: absolute;
+width: 1728px;
+height: 1117px;
+left: 0px;
+top: 0px;
+
+background: #D9D9D9;
+
+
+/* image 3 */
+
+
+position: absolute;
+width: 1728px;
+height: 84px;
+left: -13px;
+top: 0px;
+
+background: url(image.png);
+
+
+/* Rectangle 18 */
+
+
+position: absolute;
+width: 1682px;
+height: 84px;
+left: 46px;
+top: 0px;
+
+background: #000000;
+
+
+/* The-free-exoticparadise.us */
+
+
+position: absolute;
+width: 1026px;
+height: 80px;
+left: 46px;
+top: 20px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+
+
+
+/* image 11 */
+
+
+position: absolute;
+width: 1728px;
+height: 1033px;
+left: 0px;
+top: 84px;
+
+background: url(image.png);
+
+
+/* Welcome to ExoticParadise!! */
+
+
+position: absolute;
+width: 1235px;
+height: 100px;
+left: 250px;
+top: 100px;
+
+font-family: 'Meie Script';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 122px;
+
+color: #FFFFFF;
+
+
+
+/* Rectangle 22 */
+
+
+position: absolute;
+width: 1728px;
+height: 124px;
+left: 0px;
+top: 993px;
+
+background: #848FF0;
+
+
+/* Rectangle 23 */
+
+
+position: absolute;
+width: 320px;
+height: 100px;
+left: 0px;
+top: 1005px;
+
+background: rgba(206, 100, 100, 0.67);
+border-radius: 50px;
+
+
+/* Rectangle 24 */
+
+
+position: absolute;
+width: 320px;
+height: 100px;
+left: 348px;
+top: 1005px;
+
+background: rgba(90, 237, 193, 0.67);
+border-radius: 50px;
+
+
+/* Rectangle 25 */
+
+
+position: absolute;
+width: 320px;
+height: 100px;
+left: 704px;
+top: 1005px;
+
+background: linear-gradient(180deg, rgba(1, 211, 186, 0.67) 0%, rgba(52, 228, 207, 0.408281) 77.08%, rgba(132, 255, 240, 0) 100%);
+border-radius: 50px;
+
+
+/* Rectangle 26 */
+
+
+position: absolute;
+width: 320px;
+height: 100px;
+left: 1060px;
+top: 1005px;
+
+background: #2ECFE4;
+border-radius: 50px;
+
+
+/* Rectangle 27 */
+
+
+position: absolute;
+width: 320px;
+height: 100px;
+left: 1416px;
+top: 1005px;
+
+background: #000000;
+border-radius: 50px;
+
+
+/* CONTACT US */
+
+
+position: absolute;
+width: 324px;
+height: 91px;
+left: 0px;
+top: 1026px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* CHATBOT */
+
+
+position: absolute;
+width: 249px;
+height: 46px;
+left: 379px;
+top: 1026px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* DATABASE */
+
+
+position: absolute;
+width: 249px;
+height: 46px;
+left: 743px;
+top: 1026px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* SETTINGS */
+
+
+position: absolute;
+width: 249px;
+height: 46px;
+left: 1095px;
+top: 1026px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* MUSIC */
+
+
+position: absolute;
+width: 249px;
+height: 46px;
+left: 1479px;
+top: 1026px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #FFFFFF;
+
+
+
+/* Your tours: 1 Ongoing */
+
+
+position: absolute;
+width: 1016px;
+height: 113px;
+left: 469px;
+top: 216px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 109px;
+
+color: #000000;
+
+
+
+/* Rectangle 28 */
+
+
+position: absolute;
+width: 743px;
+height: 296px;
+left: 6px;
+top: 329px;
+
+background: rgba(52, 228, 207, 0.609375);
+border-radius: 70px;
+
+
+/* CLOUD FOREST VIRTUAL TOUR */
+
+
+position: absolute;
+width: 732px;
+height: 236px;
+left: 17px;
+top: 365px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 90px;
+line-height: 109px;
+
+color: #000000;
