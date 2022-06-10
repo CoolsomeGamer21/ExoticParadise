@@ -1,0 +1,638 @@
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 1728px;
+height: 1117px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(180deg, rgba(69, 226, 207, 0.609375) 0%, rgba(68, 226, 207, 0.587158) 16.67%, rgba(52, 228, 207, 0) 100%);
+
+
+/* image 12 */
+
+
+position: absolute;
+width: 151px;
+height: 127px;
+left: 25px;
+top: 31px;
+
+background: url(image.png);
+
+
+/* TOUR BOT ✅ */
+
+
+position: absolute;
+width: 360px;
+height: 68px;
+left: 196px;
+top: 60px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Hello! I am Tour Bot...I see you are looking for a tour. Where do you want to tour? */
+
+
+position: absolute;
+width: 696px;
+height: 244px;
+left: 25px;
+top: 158px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Rectangle 29 */
+
+
+position: absolute;
+width: 1728px;
+height: 92px;
+left: 0px;
+top: 994px;
+
+background: #99DCA8;
+border-radius: 50px;
+
+
+/* Rectangle 30 */
+
+
+position: absolute;
+width: 464px;
+height: 84px;
+left: 25px;
+top: 874px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 31 */
+
+
+position: absolute;
+width: 464px;
+height: 84px;
+left: 532px;
+top: 878px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 32 */
+
+
+position: absolute;
+width: 464px;
+height: 84px;
+left: 1063px;
+top: 874px;
+
+background: #D9D9D9;
+
+
+/* SINGAPORE */
+
+
+position: absolute;
+width: 464px;
+height: 88px;
+left: 68px;
+top: 874px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+
+color: #000000;
+
+
+
+/* DELHI */
+
+
+position: absolute;
+width: 464px;
+height: 88px;
+left: 1156px;
+top: 878px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+
+color: #000000;
+
+
+
+/* BAHAMAS */
+
+
+position: absolute;
+width: 464px;
+height: 88px;
+left: 556px;
+top: 874px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+
+color: #000000;
+
+
+
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 1728px;
+height: 1117px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(180deg, rgba(69, 226, 207, 0.609375) 0%, rgba(68, 226, 207, 0.587158) 16.67%, rgba(52, 228, 207, 0) 100%);
+
+
+/* image 12 */
+
+
+position: absolute;
+width: 151px;
+height: 127px;
+left: 25px;
+top: 31px;
+
+background: url(image.png);
+
+
+/* image 14 */
+
+
+position: absolute;
+width: 151px;
+height: 127px;
+left: 25px;
+top: 376px;
+
+background: url(image.png);
+
+
+/* TOUR BOT ✅ */
+
+
+position: absolute;
+width: 360px;
+height: 68px;
+left: 196px;
+top: 60px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* TOUR BOT ✅ */
+
+
+position: absolute;
+width: 360px;
+height: 68px;
+left: 176px;
+top: 402px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Hello! I am Tour Bot...I see you are looking for a tour. Where do you want to tour? */
+
+
+position: absolute;
+width: 696px;
+height: 244px;
+left: 25px;
+top: 158px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Rectangle 29 */
+
+
+position: absolute;
+width: 1728px;
+height: 92px;
+left: 0px;
+top: 978px;
+
+background: #99DCA8;
+border-radius: 50px;
+
+
+/* SINGAPORE */
+
+
+position: absolute;
+width: 464px;
+height: 88px;
+left: 1176px;
+top: 314px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+
+color: #000000;
+
+
+
+/* image 13 */
+
+
+position: absolute;
+width: 120px;
+height: 101px;
+left: 1580px;
+top: 308px;
+
+background: url(image.png);
+
+
+/* Okay, there are many attractions in Singapore... Choose an option below or you can always type it */
+
+
+position: absolute;
+width: 631px;
+height: 234px;
+left: 25px;
+top: 512px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Rectangle 33 */
+
+
+position: absolute;
+width: 472px;
+height: 80px;
+left: 25px;
+top: 875px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 34 */
+
+
+position: absolute;
+width: 472px;
+height: 80px;
+left: 536px;
+top: 875px;
+
+background: #D9D9D9;
+
+
+/* Rectangle 35 */
+
+
+position: absolute;
+width: 644px;
+height: 80px;
+left: 1047px;
+top: 875px;
+
+background: #D9D9D9;
+
+
+/* CLOUD FOREST */
+
+
+position: absolute;
+width: 420px;
+height: 64px;
+left: 51px;
+top: 891px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* GARDEN BY THE BAY */
+
+
+position: absolute;
+width: 509px;
+height: 64px;
+left: 538px;
+top: 891px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* SUPERTREE OBSERVATORY */
+
+
+position: absolute;
+width: 668px;
+height: 56px;
+left: 1060px;
+top: 891px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Rectangle 4 */
+
+
+position: absolute;
+width: 1728px;
+height: 1117px;
+left: 0px;
+top: 0px;
+
+background: linear-gradient(180deg, rgba(69, 226, 207, 0.609375) 0%, rgba(68, 226, 207, 0.587158) 16.67%, rgba(52, 228, 207, 0) 100%);
+
+
+/* image 12 */
+
+
+position: absolute;
+width: 151px;
+height: 127px;
+left: 25px;
+top: 31px;
+
+background: url(image.png);
+
+
+/* image 14 */
+
+
+position: absolute;
+width: 151px;
+height: 127px;
+left: 25px;
+top: 376px;
+
+background: url(image.png);
+
+
+/* image 16 */
+
+
+position: absolute;
+width: 151px;
+height: 127px;
+left: 25px;
+top: 812px;
+
+background: url(image.png);
+
+
+/* TOUR BOT ✅ */
+
+
+position: absolute;
+width: 360px;
+height: 68px;
+left: 196px;
+top: 60px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* TOUR BOT ✅ */
+
+
+position: absolute;
+width: 360px;
+height: 68px;
+left: 176px;
+top: 402px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* TOUR BOT ✅ */
+
+
+position: absolute;
+width: 360px;
+height: 68px;
+left: 176px;
+top: 842px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Hello! I am Tour Bot...I see you are looking for a tour. Where do you want to tour? */
+
+
+position: absolute;
+width: 696px;
+height: 244px;
+left: 25px;
+top: 158px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* SINGAPORE */
+
+
+position: absolute;
+width: 464px;
+height: 88px;
+left: 1176px;
+top: 314px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 77px;
+
+color: #000000;
+
+
+
+/* image 13 */
+
+
+position: absolute;
+width: 120px;
+height: 101px;
+left: 1580px;
+top: 308px;
+
+background: url(image.png);
+
+
+/* image 15 */
+
+
+position: absolute;
+width: 120px;
+height: 101px;
+left: 1580px;
+top: 565px;
+
+background: url(image.png);
+
+
+/* Okay, there are many attractions in Singapore... Choose an option below or you can always type it */
+
+
+position: absolute;
+width: 631px;
+height: 234px;
+left: 25px;
+top: 512px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* CLOUD FOREST VIRTUAL TOUR */
+
+
+position: absolute;
+width: 752px;
+height: 146px;
+left: 828px;
+top: 586px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
+
+
+
+/* Got it! Click on me to pay for your tour because it is a premium tour */
+
+
+position: absolute;
+width: 833px;
+height: 130px;
+left: 20px;
+top: 939px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 48px;
+line-height: 58px;
+
+color: #000000;
